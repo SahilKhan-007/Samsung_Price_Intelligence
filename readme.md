@@ -147,7 +147,7 @@ Key relationships:
 
 This project is created strictly for **educational and learning purposes only**.
 
-All data used in this project has been collected from publicly available information on :contentReference[oaicite:0]{index=0} through web scraping techniques.
+All data used in this project has been collected from publicly available information on :GSMARENA through web scraping techniques.
 
 - No personal, private, or sensitive data has been collected  
 - The data is used only for academic and non-commercial analysis  
